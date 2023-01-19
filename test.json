@@ -1,0 +1,16 @@
+{
+  "Name": "Delhi",
+  "Age": 10,
+  "City" : ["ABCD","Mumbai","Cercado"],
+  "Address":
+    {
+    "StreetName": "ABCD",
+    "HouseNumber": "23d",
+    "City": "abcd",
+    "Number":
+    {
+      "LandLine": "1234",
+      "Mobile": "56789"
+    }
+  }
+}
